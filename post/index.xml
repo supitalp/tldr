@@ -6,8 +6,132 @@
     <description>Recent content in Posts on tl;dr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 12 Oct 2016 11:37:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2016 10:35:33 +0200</lastBuildDate>
     <atom:link href="https://supitalp.github.io/tldr/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Predictably Irrational</title>
+      <link>https://supitalp.github.io/tldr/post/predictably-irrational/</link>
+      <pubDate>Thu, 13 Oct 2016 10:35:33 +0200</pubDate>
+      
+      <guid>https://supitalp.github.io/tldr/post/predictably-irrational/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Dan_Ariely&#34;&gt;Dan Ariely&lt;/a&gt; est un chercheur dans le relativement récent domaine de l&amp;rsquo;économie comportementale (&amp;ldquo;behavioral economics&amp;rdquo;). Selon lui, l&amp;rsquo;être humain est non seulement irrationel (ce n&amp;rsquo;est pas vraiment une surprise !), mais aussi &lt;em&gt;prédictible&lt;/em&gt; dans ses choix irrationels. Le livre présente un certain nombre d&amp;rsquo;expériences sociologiques menées dans son labo pour mettre en évidence certains comportements irrationels communs.&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-1-the-truth-about-relativity&#34;&gt;Chapter 1 - The Truth about Relativity&lt;/h2&gt;
+
+&lt;p&gt;On juge la valeur d&amp;rsquo;une chose toujours de manière relative, mais jamais absolue.&lt;/p&gt;
+
+&lt;p&gt;Conseil de Dan Ariely: aller en soirée avec quelqu&amp;rsquo;un qui vous ressemble, mais un peu moins attirant que vous. De cette manière, les autres vous jugeront relativement à cette autre personne, et vous attribueront une valeur supérieure à celle des autres personnes dans d&amp;rsquo;autres catégories (là est le biais).&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-2-the-fallacy-of-supply-and-demand&#34;&gt;Chapter 2 - The Fallacy of Supply and Demand&lt;/h2&gt;
+
+&lt;p&gt;Une faille dans la théorie économique classique.&lt;/p&gt;
+
+&lt;p&gt;La théorie classique suppose que les choix de tous les mondes sont rationnels, et que l&amp;rsquo;offre et la demande sont indépendants. Ce n&amp;rsquo;est pas le cas en pratique. Exemple : celui qui vend un produit peut choisir le prix de départ (prix de vente conseillé), c&amp;rsquo;est-à-dire créer une ¨ancre¨ à partir de laquelle les gens jugent relativement de la valeur de l&amp;rsquo;object mis en vente. Si je choisis de vendre mon concept de ¨sac poubelle en kevlar¨ à un prix de départ de 75 €, ce prix sera accepté, et ce indépendemment du fait que le prix d&amp;rsquo;un sac poubelle ¨devrait¨ être beaucoup plus faible !&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-3-the-cost-of-zero-cost-le-pouvoir-du-gratuit-free&#34;&gt;Chapter 3 - The Cost of Zero Cost: Le pouvoir du gratuit (&amp;ldquo;Free!&amp;rdquo;)&lt;/h2&gt;
+
+&lt;p&gt;Dans ce chapitre, Ariely s&amp;rsquo;attache à montrer que le coût zéro exerce une influence très forte sur notre tendance à consommer. Il propose l&amp;rsquo;expérience suivante : il vend deux sortes de chocolats dans un b&amp;amp;atiment public: des Lindt (valeur à l&amp;rsquo;unité estimée: 30 cents), et des Hershey&amp;rsquo;s Kisses (valeur: presque rien), aux prix respectifs de 15 cents et 1 cent. CHaque personne a le droit à un seul chocolat. Dans ces conditions, les gens agissent de manière rationnelle et achètent en moyenne plus les Lindt (meilleur rapport qualité/prix) : les pourcentages sont 73-27%. Il réitère ensuite l&amp;rsquo;expérience en baissant le prix d&amp;rsquo;un cent (14 centimes, contre &amp;ldquo;FREE!&amp;rdquo;). En toute logique, les pourcentages ne devraient pas changer. Pourtant, les pourcentages changent drastiquement : 31-69% !&lt;/p&gt;
+
+&lt;p&gt;Le reste du chapitre donne des exemples autour de l&amp;rsquo;attrait pour le gratuit, et comment les entreprises s&amp;rsquo;en servent pour booster leurs ventes.&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-4-the-cost-of-social-norms&#34;&gt;Chapter 4 - The Cost of Social Norms&lt;/h2&gt;
+
+&lt;p&gt;Selon Ariely, deux modes de fonctionnement distinct régissent nos actions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;la norme &amp;ldquo;marché&amp;rdquo;: où on agit rationnellement, et on prend des décisions que l&amp;rsquo;on juge dans notre intérêt (économique). Nous n&amp;rsquo;acceptons une négociation que si elle nous paraît équitable.&lt;/li&gt;
+&lt;li&gt;la norme &amp;ldquo;sociale&amp;rdquo;: on n&amp;rsquo;attend pas de rémunération directe (mais on s&amp;rsquo;attend à un retour d&amp;rsquo;ascenseur dans un futur indéterminé).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Là où ça devient intéressant, c&amp;rsquo;est qu&amp;rsquo;en fonction du contexte, on peut switcher de l&amp;rsquo;un à l&amp;rsquo;autre. Par exemple : si je propose à ma belle-mère de la payer (en argent) pour le merveilleux dîner de Thanksgiving qu&amp;rsquo;elle a préparé, c&amp;rsquo;est le drame, car je l&amp;rsquo;ai fait switché en mode &amp;ldquo;marché&amp;rdquo;, ce qui est très inapproprié.&lt;/p&gt;
+
+&lt;p&gt;La suite décrit plusieurs expériences qui montrent qu&amp;rsquo;on peut attendre plus des gens si on les place dans le contexte &amp;ldquo;social&amp;rdquo; plutôt que marché (autrement dit, payer quelqu&amp;rsquo;un pour effectuer une tâche est généralement moins efficace : c&amp;rsquo;est pour ça que les entreprises, aujourd&amp;rsquo;hui, mettent l&amp;rsquo;accent sur la culture d&amp;rsquo;entreprise, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-5-the-power-of-a-free-cookie-how-free-can-make-us-less-selfish&#34;&gt;Chapter 5 - The Power of a Free Cookie: How free can make us less selfish&lt;/h2&gt;
+
+&lt;p&gt;Quand on nous propose des cookies gratuitement, on a tendance à être beaucoup moins égoïstes et à se limiter en quantité par égard pour les autres. Si on nous demande de payer pour les cookies, on devient super égoïstes et on prend beaucoup, beaucoup plus! Autre exemple, faire payer une pénalité pour un retard, par exemple, dans le but de limiter les retards, est contre-productif. En effet, les gens se sentent autorisés à arriver en retard, car ils payent pour ce retard, alors que si ils ne payent rien, ils se sentiront beaucoup plus mal à l&amp;rsquo;aise pour chaque retard.&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-6-the-influence-of-arousal&#34;&gt;Chapter 6 - The Influence of Arousal&lt;/h2&gt;
+
+&lt;p&gt;Des expériences qui montrent que sous l&amp;rsquo;effet d&amp;rsquo;une grande émotion (excitation sexuelle dans leurs expériences), nos comportements sont très largement modifiés). Jusque là, rien de nouveau. Ce que Dan Ariely montre, c&amp;rsquo;est que si on nous demande d&amp;rsquo;anticiper nos réactions sous l&amp;rsquo;influence de ces émotions, on les sous-estime très largement ! &amp;ndash;&amp;gt; Dr. Jekill vs Mr. Hyde&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-7-the-problem-of-procrastination-and-self-control&#34;&gt;Chapter 7 - The Problem of Procrastination and Self-Control&lt;/h2&gt;
+
+&lt;p&gt;Pourquoi on procrastine ? Quelques expériences qui donnent des pistes pour mieux gérer son temps. Ariely a organié une expérience avec trois classes différentes. Le but pour les étudiants était de rendre trois dissertations d&amp;rsquo;ici la fin du semestre. Il a essayé trois stratégies différentes:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;laisser les étudiants complètement libres de gérer leur temps. Seule condition: qu&amp;rsquo;ils rendent les trois dissertations avant le dernier jour du semestre.&lt;/li&gt;
+&lt;li&gt;imposer trois deadlines différentes (régulièrement espacées dans le temps) aux étudiants&lt;/li&gt;
+&lt;li&gt;le premier jour, demander aux étudiants de fixer eux-mêmes leur deadlines (et les donner au prof)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Résultats: ceux avec deadlines imposées ont réussi le mieux, ceux sans deadlines le moins bien. Ceux qui devaient choisir leurs deadlines réussissaient plutôt bien (à part ceux qui avaient choisi des deadlines foireuses, comme par exemple les trois deadlines à la toute fin du semestre).&lt;/p&gt;
+
+&lt;p&gt;À la fin du chapitre, Dan Ariely tire des conclusions de cette expérience et donne des applications potentielles de ces résultats pour résoudre différents problèmes: par exemple le problème de la santé publique (il faudrait demander aux gens de se fixer eux-mêmes des échéances avec pénalité s&amp;rsquo;ils ne les respectent pas), ou celui des dépenses personelles (une nouvelle carte de crédit avec auto-contrôle ?).&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-8-the-high-price-of-ownership-why-we-overvalue-what-we-have&#34;&gt;Chapter 8 - The High Price of Ownership: Why We Overvalue What We Have&lt;/h2&gt;
+
+&lt;p&gt;On a une large tendance à surestimer la valeur de tout ce qu&amp;rsquo;on possède. Expérience avec des billets pour un match de basket prisé: il y a une large différence entre le prix que des potentiels acheteurs seraient prêts à payer (environ 170 dollars), et celui auquel les potentiels vendeurs accepteraient de vendre (2400 dollars !). C&amp;rsquo;est essentiellement parce que nous sommes allergiques à l&amp;rsquo;idée de la perte.
+Cela ne s&amp;rsquo;applique pas seulement aux objets, mais aussi aux idées (nos idées nous paraissent tout le temps un peu meilleurs, et on a du mal à les abandonner).&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-9-keeping-doors-open&#34;&gt;Chapter 9 - Keeping Doors Open&lt;/h2&gt;
+
+&lt;p&gt;Expérience à l&amp;rsquo;aide d&amp;rsquo;un jeu vidéo: les participants (étudiants du MIT) cliquent sur des portes et reçoivent de l&amp;rsquo;argent pour chaque clic. Chaque porte a une espérance de gain différente, qu&amp;rsquo;ils doivent découvrir en cliquant plusieurs fois. Si les portes ne disparaissent jamais, les participants suivent une stratégie à peu près rationnelle: explorer un peu au début, puis choisir une porte avec un haut gain, et cliquer sur cette porte jusqu&amp;rsquo;à épuiser le nombre de clic autorisés (100). Au contraire, si les portes disparaissent si ils ne sont pas cliquées pendant un certain temps, les participants essaient tout le temps de sauver les portes, mêmes celles qui rapportent peu a priori, alors même que ça leur coûte de précieux clics! Cela s&amp;rsquo;explique, encore une fois, par notre aversion pour la perte: on ne veut jamais se fermer de portes, et tout le temps garder toutes les options possibles. L&amp;rsquo;expérience donne les mêmes résultats, même si on donne aux participants l&amp;rsquo;éspérance de gain de chaque porte !&lt;/p&gt;
+
+&lt;p&gt;Ce phénomème apparaît aussi quand il n&amp;rsquo;y a que deux options: Ariely raconte par exemple l&amp;rsquo;histoire de Dana, une de ses étudiantes, qui n&amp;rsquo;arrivait pas à choisir entre son ancien copain (avec qui elle ne voyait aucun avenir, et qu&amp;rsquo;elle n&amp;rsquo;aimait plus), et un nouveau potentiel copain (qu&amp;rsquo;elle aimait, lui). Lâcher prise est très difficile !&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-10-the-effect-of-expectations-why-the-mind-gets-what-it-expects&#34;&gt;Chapter 10 - The Effect of Expectations: Why the Mind Gets What It Expects&lt;/h2&gt;
+
+&lt;p&gt;Si on s&amp;rsquo;attend à quelque chose de bien, l&amp;rsquo;expérience en elle-même sera bien. Si nos attentes sont mauvaises, l&amp;rsquo;expérience risque d&amp;rsquo;être mauvaise aussi. D&amp;rsquo;où l&amp;rsquo;importance cruciale du marketing (example: Coca-Cola vs. Pepsi: une étude a montré que Pepsi est préféré à Coca-Cola en blind test, mais que Coca-Cola est préféré dès que les gens voient la marque !). Autre exemple: celui de Joshua Bell qui a joué devant une foule de gens inintéressés dans le métro. Conseil de l&amp;rsquo;auteur pour que vos invités apprécient plus votre repas: soigner la présentation à fond, et fournir une description un peu pompeuse du plat qui fera bon effet. Leur plaisir en mangeant sera réellement augmenté !&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-11-the-power-of-price-why-a-50-cent-aspirin-can-do-what-a-penny-aspirin-can-t&#34;&gt;Chapter 11 - The Power of Price: Why a 50-cent aspirin Can Do What a Penny Aspirin Can&amp;rsquo;t&lt;/h2&gt;
+
+&lt;p&gt;Un chapitre sur l&amp;rsquo;effet Placebo notamment, où Ariely montre en particulier l&amp;rsquo;importance du prix du médicament dans les effets de guérison. Ce qui m&amp;rsquo;a le plus choqué dans ce chapitre, c&amp;rsquo;est la longue liste d&amp;rsquo;opérations chirurgicales assez lourdes que l&amp;rsquo;on fait fait subir à des patients, alors qu&amp;rsquo;on s&amp;rsquo;est aperçu plus tard que ces opérations ne marchent pas mieux que les placebos !&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-12-the-cycle-of-distrust&#34;&gt;Chapter 12 - The Cycle of Distrust&lt;/h2&gt;
+
+&lt;p&gt;Un chapitre que j&amp;rsquo;ai trouvé peu intéressant, autour du &amp;ldquo;cycle de la perte de confiance&amp;rdquo;. En gros, une société dans laquelle la confiance a été perdue marche beaucoup moins bien qu&amp;rsquo;une société dans laquelle la confiance règne. Le concept de &amp;ldquo;tragedy of the commons&amp;rdquo; est introduit. Je cite le livre directement ici pour mieux illustrer cette idée:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Today, psychologists, economists and environmentalists use the phrase “the tragedy of the commons” [&amp;hellip;]: when we use a common resource at a rate that is slower than the rate at which it replenishes, all is well. However, if a few individuals get greedy and use more than their share, the system of consumption becomes unsustainable, and in the long term, everybody loses. In essence, the tragedy of the commons is about two competing human interests. On one hand, an individual should care about the sustainability of shared resources in the long term because everyone, including the individual, benefits from it. At the same time, in the short term, the individual benefits immediately from taking more than his or her fair share. (Social scientists refer to such betrayers of social contracts as “defectors.”)&lt;/p&gt;
+
+&lt;p&gt;Of course, if we all cared about the common good or thought about the long-term consequences of our actions, we might not run into resource-sharing problems. But because human beings tend to focus on short-term benefits and our own immediate needs, such tragedies of the commons occur frequently&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;the-public-good-game&#34;&gt;The Public Good Game&lt;/h3&gt;
+
+&lt;p&gt;Une expérience de pensée simple pour illustrer cette idée:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The following thought experiment offers an interesting example of the phenomenon of the tragedy of the commons. Imagine that I offer you and three other people $10 each, which is yours to keep. But I also give you an opportunity to make more money. You can put as much of your $10 as you want into the “group pot.” Once all the players have privately decided how much of their money to put in the group pot, all the money doubles and then is split evenly among the four participants, regardless of how much money each individual contributed. How much of your $10 would you put into the group pot? If all four of you put in $10, the group pot would double from $40 to $80, be divided four ways, and each of you would take away a nice $20.
+So let’s say you put in your $10, thinking that the other players will do the same. Once the pot is divided, however, you only get $15 back, not $20. What happened? It turns out that one of the other players—let’s call him “Bernie”—decided to cheat. At the beginning of the game, Bernie realized that he would make the most money if he withheld his $10 while everyone else contributed to the central pot. So Bernie kept his $10 while the other three players placed their $10 in the central pot, making the total $30. This doubled for a total of $60, subsequently split four ways (remember, Bernie gets the proceeds of the group pot, whether or not he contributes), and each of the three contributors get $15. Bernie, meanwhile, makes out with $25 (his original $10, plus $15 from the split), more than any other player.&lt;/p&gt;
+
+&lt;p&gt;Now, let’s say you get a chance to play the same game again with the same players (I give you all new $10 bills). How would you play this time? You don’t want to be too trusting because you know that Bernie might defect again. So you only put in $4. It turns out that the other three players feel the same way and make the same decision, making the total in the group’s pot $12 (Bernie again does not put in any money). The pot doubles to $24, which is split evenly among four people. Each of the three contributing players gets $6 (in addition to the $6 they kept for themselves), while Bernie winds up with $16 in total.&lt;/p&gt;
+
+&lt;p&gt;Now, your trust has been eroded. You play a few more games, but you don’t put in any of your money. Each time you end up with the $10 you started with. You don’t lose anything, but since you don’t trust others to behave in a cooperative way (and neither do the other players), you don’t gain anything either. In contrast, if you and the others had acted cooperatively, each of you would have wound up with as much as $20 per game.&lt;/p&gt;
+
+&lt;p&gt;Viewed this way, the Public Goods Game illustrates how we, as a society, share the public good of trust. When we all cooperate, trust is high and the total value to society is maximal. But distrust is infectious. When we see people defect by lying in their advertisements, proposing scams, etc., we start acting similarly; trust deteriorates, and everybody loses, including the individuals who initially gained from their selfish acts.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;chapter-13-the-context-of-our-character-part-i-why-we-are-dishonest-and-what-we-can-do-about-it&#34;&gt;Chapter 13 - The Context of our Character - Part I: Why We Are Dishonest, and What  We Can Do about It&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;quand on nous en donne l&amp;rsquo;occasion, nous trichons/mentons&lt;/li&gt;
+&lt;li&gt;quand on triche, c&amp;rsquo;est juste un peu, jamais beaucoup ! (et ce même dans des conditions où personne ne peut savoir qu&amp;rsquo;on a pu tricher).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;chapter-14-the-context-of-our-character-part-ii-why-dealing-with-cash-makes-us-more-honest&#34;&gt;Chapter 14 - The Context of our Character - Part II: Why Dealing with Cash Makes Us More Honest&lt;/h2&gt;
+
+&lt;p&gt;Des expériences montrent que l&amp;rsquo;on a tendance à beaucoup moins tricher/voler dès qu&amp;rsquo;il s&amp;rsquo;agit de cash (et pas d&amp;rsquo;autres choses, comme du Coca ou des stylos volés au bureau). Pourquoi ? Parce qu&amp;rsquo;il est plus facile de se trouver des excuses quand il ne s&amp;rsquo;agit pas de cash !&lt;/p&gt;
+
+&lt;h2 id=&#34;chapter-15-beer-and-free-lunches-what-is-behavioral-economics-and-where-are-the-free-lunches&#34;&gt;Chapter 15 - Beer and Free Lunches: What Is Behavioral Economics, and Where Are the Free Lunches?&lt;/h2&gt;
+
+&lt;p&gt;Un chapitre de conclusion. Une petite expérience menée dans un bar qui montre que quand tout le monde commande à voix haute, la pression du groupe encourage la diversité des plats commandés (chacun veut être original comparé à ses voisins), mais ce au détriment du plaisir individuel de chacun (on se sent forcés à prendre quelque chose dont on sait que cela ne nous plaira pas).&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The Slight Edge</title>
@@ -21,7 +145,7 @@
 
 &lt;h2 id=&#34;the-recipe-for-success-do-things-that-are-easy-to-do-and-also-easy-not-to-do&#34;&gt;The Recipe for success: do things that are easy to do. And also easy not to do!&lt;/h2&gt;
 
-&lt;p&gt;Olson claims that success stems from these simple daily actions that are easy to do, but also easy not to do, such that most people will neglect them, underestimating their importance. And indeed, a bad habit won´t kill you in one day, nor will it kill you in two days. But after a few years these tiny negative impacts on your life will compound and make your life miserable without you realizing what lead to your failure in the first place.&lt;/p&gt;
+&lt;p&gt;Olson claims that success stems from these simple daily actions that are easy to do, but also easy not to do, such that most people will neglect them, underestimating their importance. And indeed, a bad habit won&amp;rsquo;t kill you in one day, nor will it kill you in two days. But after a few years these tiny negative impacts on your life will compound and make your life miserable without you realizing what lead to your failure in the first place.&lt;/p&gt;
 
 &lt;h2 id=&#34;do-it-and-you-shall-have-the-power&#34;&gt;&amp;ldquo;Do it and you shall have the power&amp;rdquo;&lt;/h2&gt;
 
