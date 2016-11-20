@@ -6,8 +6,51 @@
     <description>Recent content in Posts on tl;dr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 13 Oct 2016 10:35:33 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 20 Nov 2016 08:29:50 +0100</lastBuildDate>
     <atom:link href="https://supitalp.github.io/tldr/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Rosie Project</title>
+      <link>https://supitalp.github.io/tldr/post/the-rosie-project/</link>
+      <pubDate>Sun, 20 Nov 2016 08:29:50 +0100</pubDate>
+      
+      <guid>https://supitalp.github.io/tldr/post/the-rosie-project/</guid>
+      <description>&lt;p&gt;Le blog &amp;ldquo;Le Rose et le Noir&amp;rdquo; a fait &lt;a href=&#34;http://leroseetlenoir.blogspot.ch/2014/01/the-rosie-project.html&#34;&gt;un excellent post&lt;/a&gt; sur ce livre, j&amp;rsquo;en recopie le résumé ici.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Don Tillman a 39 ans. Brillant généticien, fin cuisinier, ceinture noire d&amp;rsquo;aikido et de karaté, il est en outre doté d&amp;rsquo;un physique avantageux. Mais même s&amp;rsquo;il ne s&amp;rsquo;identifie pas comme tel, Don présente tous les symptômes d&amp;rsquo;un autiste Asperger: détachement émotionnel, difficulté à intégrer les codes sociaux, tempérament obsessionnel-compulsif, attachement excessif à la routine&amp;hellip; Si bien qu&amp;rsquo;il n&amp;rsquo;a jamais réussi à avoir plus d&amp;rsquo;un rendez-vous avec une femme. Quand il estime le moment venu pour lui de se marier, Don décide de procéder de manière scientifique, en établissant un questionnaire très précis à administrer aux prétendantes. Sa future épouse devra être non-fumeuse, extrêmement ponctuelle, surtout pas végétarienne, avoir un QI en rapport avec le sien, ne pas se maquiller, faire de l&amp;rsquo;exercice régulièrement et admettre qu&amp;rsquo;il n&amp;rsquo;existe aucune différence de goût entre deux parfums de glace. C&amp;rsquo;est alors que Rosie débarque dans son bureau. Elle gagne sa vie comme serveuse, est chroniquement en retard, a une hygiène de vie déplorable et peut reconnaître l&amp;rsquo;abricot de la mangue à tous les coups les yeux fermés. Bien entendu, Don décide immédiatement que ce n&amp;rsquo;est pas la femme qu&amp;rsquo;il lui faut. Mais comme, à sa grande surprise, il s&amp;rsquo;amuse bien avec elle, il décide de l&amp;rsquo;aider à chercher le père qu&amp;rsquo;elle n&amp;rsquo;a jamais connu&amp;hellip;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;J&amp;rsquo;ai beaucoup apprécié ce livre, même si j&amp;rsquo;ai un peu regretté que la fin tourne un peu au roman d&amp;rsquo;amour niaiseux (enfin, de manière toute relative). Don Tillman est une version attachante de Sheldon Cooper. Le début du livre est vraiment excellent, lorsqu&amp;rsquo;on découvre son univers : son planning de repas hebdomadaire (à chaque jour de la semaine correspond une recette) est vraiment drôle.&lt;/p&gt;
+
+&lt;p&gt;Le livre a été traduit en français, sous le titre: &lt;a href=&#34;https://www.amazon.fr/Le-Th%C3%A9or%C3%A8me-homard-Graeme-SIMSION/dp/2841117200/ref=sr_1_1?ie=UTF8&amp;amp;qid=1397561907&amp;amp;sr=8-1&amp;amp;keywords=%22Le+th%C3%A9or%C3%A8me+du+homard%22&#34;&gt;Le Théorême du Homard&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How Not to be Wrong</title>
+      <link>https://supitalp.github.io/tldr/post/how-not-to-be-wrong/</link>
+      <pubDate>Sun, 20 Nov 2016 08:29:39 +0100</pubDate>
+      
+      <guid>https://supitalp.github.io/tldr/post/how-not-to-be-wrong/</guid>
+      <description>&lt;p&gt;Comme l&amp;rsquo;avoue son auteur, Jordan Ellenberg, dans les remerciements à la fin du livre, il voulait &amp;ldquo;crier son amour pour les maths&amp;rdquo; dans ce livre. Pari réussi.&lt;/p&gt;
+
+&lt;p&gt;Ce livre est une succession de petits chapitres, qui abordent chacun un problème très concret du monde réel, et qui, au fur et à mesure des pages, dévoilent les aspects mathématiques qui se cachent derrière, ou les pièges de raisonnement que le raisonnement mathématique permet d&amp;rsquo;éviter.&lt;/p&gt;
+
+&lt;p&gt;Le livre contient, entre autres, une très bonne introduction sur le concept de &lt;a href=&#34;https://en.wikipedia.org/wiki/P-value&#34;&gt;p-value&lt;/a&gt; (spoiler : ce critère, censé permettre d&amp;rsquo;établir la validité d&amp;rsquo;une expérience de sociologie, par exemple, ne marche pas toujours du tout, et peut amener très vite à de fausses conclusions).&lt;/p&gt;
+
+&lt;p&gt;Le chapitre sur les liens entre la lotterie, la géométrie projective (en particulier le &lt;a href=&#34;https://fr.wikipedia.org/wiki/Plan_de_Fano&#34;&gt;plan de Fano&lt;/a&gt;) et les &lt;a href=&#34;https://en.wikipedia.org/wiki/Hamming_code&#34;&gt;codes de Hamming&lt;/a&gt; est particulièrement lumineux !&lt;/p&gt;
+
+&lt;p&gt;Un autre chapitre (centré sur la relation corrélation / causalité) revient sur comment on a établi dans l&amp;rsquo;histoire que les cigarettes causent le cancer. Ça nous paraît aujourd&amp;rsquo;hui évident, mais ça ne l&amp;rsquo;était pas il y a une cinquantaine d&amp;rsquo;années ! Si j&amp;rsquo;observe une corrélation très forte entre consommation de cigarette et cancers du poumon, je pourrais penser, par exemple, qu&amp;rsquo;un certain gène prédispose à la fois pour l&amp;rsquo;addiction à la clope et au cancer du poumon. Ou alors carrément (comme ça a été défendu par certains grands noms des statistiques) que le cancer du poumon pourrait, dans ses premières phases (asymptomatiques) rendre susceptible à la volonté de fumer. Ça fait réfléchir.&lt;/p&gt;
+
+&lt;p&gt;Bref, une très bonne lecture ! Bien que la prose de Jordan Ellenberg soit très bonne, deux choses m&amp;rsquo;ont rendu la lecture un peu difficile:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;il faut parfois s&amp;rsquo;accrocher pour suivre les raisonnements mathématiques (c&amp;rsquo;est normal dans un livre sur les maths)&lt;/li&gt;
+&lt;li&gt;beaucoup d&amp;rsquo;exemples sont issus de la culture américaine (baseball, résultat des élections par état, etc.), ce qui rend le livre moins accessible pour un non-américain.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Predictably Irrational</title>
