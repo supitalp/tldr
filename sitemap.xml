@@ -1,9 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://supitalp.github.io/tldr/</loc>
-    <lastmod>2017-05-01T12:00:00+02:00</lastmod>
+    <loc>https://supitalp.github.io/tldr/post/the-everything-store/</loc>
+    <lastmod>2017-09-01T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/post/les-trois-mousquetaires/</loc>
+    <lastmod>2017-08-15T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/post/l-alchimiste/</loc>
+    <lastmod>2017-08-01T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/post/les-cerfs-volants-de-kaboul/</loc>
+    <lastmod>2017-07-15T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/post/les-gens-heureux-lisent-et-boivent-du-cafe/</loc>
+    <lastmod>2017-07-01T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/post/rich-dad-poor-dad/</loc>
+    <lastmod>2017-07-01T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/post/conquerant-de-l-impossible/</loc>
+    <lastmod>2017-05-16T12:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -64,6 +95,28 @@
   <url>
     <loc>https://supitalp.github.io/tldr/post/the-blind-watchmaker/</loc>
     <lastmod>2016-10-11T18:00:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/post/</loc>
+    <lastmod>2017-09-01T12:00:00+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://supitalp.github.io/tldr/</loc>
+    <lastmod>2017-09-01T12:00:00+02:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
