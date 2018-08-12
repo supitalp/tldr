@@ -6,10 +6,39 @@
     <description>Recent content in Posts on tl;dr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 25 Jul 2018 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 09 Aug 2018 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://supitalp.github.io/tldr/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Factfulness</title>
+      <link>https://supitalp.github.io/tldr/post/factfulness/</link>
+      <pubDate>Thu, 09 Aug 2018 09:00:00 +0200</pubDate>
+      
+      <guid>https://supitalp.github.io/tldr/post/factfulness/</guid>
+      <description>This book first shows you - with facts - that everything that most people believe about the world is false, or at most heavily distorted. Besides showing really heart-warming stats about the actual status of our world, this book also teaches you, in very simple words, how to spot the fallacies in our judgments and strive to embrace a fact-based view of the world. A must read!
+À few links as a complement to this excellent book!</description>
+    </item>
+    
+    <item>
+      <title>L&#39;Antarctique, le Rêve d&#39;une Vie</title>
+      <link>https://supitalp.github.io/tldr/post/antarctique-le-reve-d-une-vie/</link>
+      <pubDate>Tue, 31 Jul 2018 09:00:00 +0200</pubDate>
+      
+      <guid>https://supitalp.github.io/tldr/post/antarctique-le-reve-d-une-vie/</guid>
+      <description>Cette fois, Mike Horn part sur les traces de Roald Amundsen, en Antarctique ! Équipé d&amp;rsquo;une flopée de &amp;ldquo;kites&amp;rdquo; de toutes les tailles, Mike Horn se lance dans la traversée de l&amp;rsquo;Antarctique la plus directe, en passant directement par le Pôle Sud !</description>
+    </item>
+    
+    <item>
+      <title>Origin</title>
+      <link>https://supitalp.github.io/tldr/post/origin/</link>
+      <pubDate>Sat, 28 Jul 2018 09:00:00 +0200</pubDate>
+      
+      <guid>https://supitalp.github.io/tldr/post/origin/</guid>
+      <description>Another Robert Langdon story where he is forced to team up with a hot girl to save the planet from a sect of dangerous, religion-driven psychopaths. I liked this one very much!
+It is striking how many of the ideas from this book can be found in Life 3.0.</description>
+    </item>
     
     <item>
       <title>Le livre des Baltimore</title>
@@ -49,37 +78,10 @@
     
     <item>
       <title>Les derniers jours de nos pères</title>
-      <link>https://supitalp.github.io/tldr/post/antarctique-le-reve-d-une-vie/</link>
-      <pubDate>Sun, 25 Mar 2018 09:00:00 +0200</pubDate>
-      
-      <guid>https://supitalp.github.io/tldr/post/antarctique-le-reve-d-une-vie/</guid>
-      <description>Un livre dont l&amp;rsquo;action se passe pendant la deuxième guerre mondiale. On suit un jeune français qui se fait enrôler par les services secrets britanniques pour mener des actions de contre-espionnage sur le territoire français. De sa formation en Angleterre jusqu&amp;rsquo;à ses multiples opérations en France, en passant surtout par le récit de ses relations avec ses camarades espions, tous plus attachants les uns que les autres, difficile de décrocher de ce bouquin !</description>
-    </item>
-    
-    <item>
-      <title>Les derniers jours de nos pères</title>
-      <link>https://supitalp.github.io/tldr/post/factfulness/</link>
-      <pubDate>Sun, 25 Mar 2018 09:00:00 +0200</pubDate>
-      
-      <guid>https://supitalp.github.io/tldr/post/factfulness/</guid>
-      <description>Un livre dont l&amp;rsquo;action se passe pendant la deuxième guerre mondiale. On suit un jeune français qui se fait enrôler par les services secrets britanniques pour mener des actions de contre-espionnage sur le territoire français. De sa formation en Angleterre jusqu&amp;rsquo;à ses multiples opérations en France, en passant surtout par le récit de ses relations avec ses camarades espions, tous plus attachants les uns que les autres, difficile de décrocher de ce bouquin !</description>
-    </item>
-    
-    <item>
-      <title>Les derniers jours de nos pères</title>
       <link>https://supitalp.github.io/tldr/post/les-derniers-jours-de-nos-peres/</link>
       <pubDate>Sun, 25 Mar 2018 09:00:00 +0200</pubDate>
       
       <guid>https://supitalp.github.io/tldr/post/les-derniers-jours-de-nos-peres/</guid>
-      <description>Un livre dont l&amp;rsquo;action se passe pendant la deuxième guerre mondiale. On suit un jeune français qui se fait enrôler par les services secrets britanniques pour mener des actions de contre-espionnage sur le territoire français. De sa formation en Angleterre jusqu&amp;rsquo;à ses multiples opérations en France, en passant surtout par le récit de ses relations avec ses camarades espions, tous plus attachants les uns que les autres, difficile de décrocher de ce bouquin !</description>
-    </item>
-    
-    <item>
-      <title>Les derniers jours de nos pères</title>
-      <link>https://supitalp.github.io/tldr/post/origins/</link>
-      <pubDate>Sun, 25 Mar 2018 09:00:00 +0200</pubDate>
-      
-      <guid>https://supitalp.github.io/tldr/post/origins/</guid>
       <description>Un livre dont l&amp;rsquo;action se passe pendant la deuxième guerre mondiale. On suit un jeune français qui se fait enrôler par les services secrets britanniques pour mener des actions de contre-espionnage sur le territoire français. De sa formation en Angleterre jusqu&amp;rsquo;à ses multiples opérations en France, en passant surtout par le récit de ses relations avec ses camarades espions, tous plus attachants les uns que les autres, difficile de décrocher de ce bouquin !</description>
     </item>
     
