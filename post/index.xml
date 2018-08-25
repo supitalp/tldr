@@ -6,10 +6,19 @@
     <description>Recent content in Posts on tl;dr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 14 Aug 2018 09:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 20 Aug 2018 09:00:00 +0200</lastBuildDate>
     
 	<atom:link href="https://supitalp.github.io/tldr/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Le Père Goriot</title>
+      <link>https://supitalp.github.io/tldr/post/le-pere-goriot/</link>
+      <pubDate>Mon, 20 Aug 2018 09:00:00 +0200</pubDate>
+      
+      <guid>https://supitalp.github.io/tldr/post/le-pere-goriot/</guid>
+      <description>En toute franchise, la raison pour laquelle j&amp;rsquo;ai lu ce bouquin est que je n&amp;rsquo;avais rien d&amp;rsquo;autre à me mettre sous la dent et qu&amp;rsquo;il était inclus dans les livres par défaut de ma liseuse. Un grand classique de la littérature française, très étudié dans les collèges / lycées. Il fait partie de La Comédie Humaine. Je ne m&amp;rsquo;attendais pas à un livre avec une fin aussi triste: le père Goriot meurt dans le dénouement le plus total, et réalise sur son lit de mort que ses filles ne l&amp;rsquo;aiment pas, et ont juste profité de son argent toute leur vie.</description>
+    </item>
     
     <item>
       <title>The Subtle Art of Not Giving a F*ck</title>
